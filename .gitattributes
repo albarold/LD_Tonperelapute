@@ -1,3 +1,5 @@
 help[[:space:]]me.unity filter=lfs diff=lfs merge=lfs -text
 export.prefab filter=lfs diff=lfs merge=lfs -text
 base[[:space:]]ld[[:space:]]alan.unity filter=lfs diff=lfs merge=lfs -text
+LD[[:space:]]ALAN2 filter=lfs diff=lfs merge=lfs -text
+LD[[:space:]]ALAN2.unity filter=lfs diff=lfs merge=lfs -text
